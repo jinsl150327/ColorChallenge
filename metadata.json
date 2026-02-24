@@ -1,0 +1,5 @@
+{
+  "name": "ChromaVision: 艺术生色彩敏感度挑战",
+  "description": "专为艺术生设计的高精度色彩感知游戏，测试您对微小色相和亮度差异的辨别能力。",
+  "requestFramePermissions": []
+}
